@@ -30,7 +30,7 @@ body {
   width: 530px;
   height: 700px;
   position: relative;
-  top: -20px;
+  top: 50px;
   background: rgba(255, 255, 255, 0.5);
   border-radius: 10px;
   user-select: none;
@@ -159,7 +159,7 @@ label {
   position: fixed;
   top: 443px;
   z-index: -1;
-  width: 36%;
+  width: 27%;
   height: 80px;
 }
 
